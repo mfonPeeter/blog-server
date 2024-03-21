@@ -1,0 +1,10 @@
+.env
+*.log
+*.pyc
+~/*
+.idea
+media
+env/
+venv/
+.vscode/
+.DS_Store
